@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Comum",
+    "color": "#aaaaaa",
+    "rank": 0
+  },
+  {
+    "name": "Incomum",
+    "color": "#55ff55",
+    "rank": 1
+  },
+  {
+    "name": "Raro",
+    "color": "#5555ff",
+    "rank": 2
+  },
+  {
+    "name": "Lendário",
+    "color": "#ffaa00",
+    "rank": 3
+  },
+  {
+    "name": "Mítico",
+    "color": "#ff55ff",
+    "rank": 4
+  }
+]

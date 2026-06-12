@@ -1,0 +1,32 @@
+[
+  {
+    "id": "none",
+    "label": "Sem VIP",
+    "bonus": 1.0,
+    "afkDebuff": 0.75
+  },
+  {
+    "id": "ouro",
+    "label": "VIP Ouro",
+    "bonus": 1.05,
+    "afkDebuff": 0.77
+  },
+  {
+    "id": "diamante",
+    "label": "VIP Diamante",
+    "bonus": 1.1,
+    "afkDebuff": 0.8
+  },
+  {
+    "id": "obsidian",
+    "label": "VIP Obsidian",
+    "bonus": 1.2,
+    "afkDebuff": 0.82
+  },
+  {
+    "id": "esmeralda",
+    "label": "VIP Esmeralda",
+    "bonus": 1.4,
+    "afkDebuff": 0.84
+  }
+]
